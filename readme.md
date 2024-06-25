@@ -28,14 +28,14 @@ The app will automatically display detected objects with bounding boxes and labe
 Here are some sample images you can use to test the object detection capabilities of the app. Download and upload these images to see the model in action:
 
 1. 🏙️ cat uses laptop
-![cat With lab](forreadme3.png)
+![cat With lab](forreadme3.PNG)
 
 2. 🐶 Dog in the Park
-![Dog](for4.png)
+![Dog](for4.PNG)
 3. 🚗 Cat and a dog in a car
-![Cat & Dog](forreadme2.png)
+![Cat & Dog](forreadme2.PNG)
 4. 🏠 people at the see
-![People](for5.png)
+![People](for5.PNG)
 # Hope you enjoy my app 😄
 
 
